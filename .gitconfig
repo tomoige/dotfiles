@@ -1,0 +1,17 @@
+[user]
+    name = Thomas Cormican
+    email = thomascormican123@gmail.com
+
+[core]
+    editor = code
+    autocrlf = input
+
+[color]
+    ui = auto
+
+[alias]
+    co = checkout
+    ci = commit
+    st = status
+    br = branch
+    lg = log --oneline --graph --decorate
