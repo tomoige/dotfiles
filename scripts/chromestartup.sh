@@ -1,0 +1,1 @@
+start chrome "file:///C:/Users/thoma/OneDrive/Desktop/Code/start-pages/start-pages/4/index.html" & start chrome "https://moodle.maynoothuniversity.ie/my/" & start chrome "https://www.microsoft365.com/?from=PortalHome"
